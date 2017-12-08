@@ -13,8 +13,8 @@
 		}
 	],
 	"require" : {
-		"yiisoft/yii2" : "*",
-		"shenboran/yii2-rabbitmq" : "dev-master"
+		"php" : "^7.0",
+		"yiisoft/yii2" : "*"
 	},
 	"autoload" : {
 		"psr-4" : {

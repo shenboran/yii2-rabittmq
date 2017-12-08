@@ -1,0 +1,21 @@
+{
+    "name": "shenboran/yii2-rabbitmq",
+    "description": "通过rabbit 创建消费者，生产者",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "沈博然",
+            "email": "shenboran@dingtalk.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "shenboran\\rabbitmq\\": ""
+        }
+    }
+}

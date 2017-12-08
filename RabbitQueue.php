@@ -83,7 +83,7 @@ abstract class RabbitQueue extends Component
         'port' => '5672',
         'vhost' => '/',
         'login' => 'guest',
-        'password' => '3.1415926'
+        'password' => 'guest'
     );
 
     /**
